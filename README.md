@@ -13,10 +13,12 @@ Here is the visual walkthrough of the implemented UI layout and smooth native an
 | UI Screenshot | Smooth Animation Walkthrough |
 | :---: | :---: |
 
-![image alt] (https://github.com/Anujsemwal10/flicktv-interview-assignment/blob/fc95a695a63cf730c11759e78c0106a2c14bb8c9/anujsemwal_flicktv_image.jpeg)
 
 
-<img src="anujsemwal_flicktv.mp4" width="320" alt="Animation Walkthrough" /> |
+| <img width="200" height="400" alt="anujsemwal_flicktv_image" src="https://github.com/user-attachments/assets/7e963b55-388c-4f03-aad9-cf20ecdb0520" /> |
+
+https://github.com/user-attachments/assets/3be1f23b-40c9-4392-b9aa-a64e1589bcbc
+|
 
 ---
 
