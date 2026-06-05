@@ -8,7 +8,7 @@ class AppColors {
   static const Color backgroundGradientEnd = Color(0xFF0A0908);
 
   /// Card & Border Colors
-  static Color cardBackground = const Color(0xFFFFFFFF).withValues(alpha:0.06);
+  static Color cardBackground = const Color(0xFFFFFFFF).withValues(alpha: 0.06);
   static Color cardBorder = const Color(0xFFFFFFFF).withValues(alpha: 0.05);
 
   /// Branding & Accent Colors

@@ -22,7 +22,8 @@ class StringConstants {
   /// Action Buttons
   static const String addMoney = 'Add Money';
   static const String claimGiftCard = 'Claim Gift Card';
-  static const String claimGiftCardSubtitle = 'Enter gift card details to claim your gift card';
+  static const String claimGiftCardSubtitle =
+      'Enter gift card details to claim your gift card';
 
   static const String enjoySeamless = 'Enjoy seamless';
   static const String oneTapPay = 'one tap payments';

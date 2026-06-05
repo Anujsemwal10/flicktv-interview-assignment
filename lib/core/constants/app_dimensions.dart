@@ -39,7 +39,7 @@ class AppDimensions {
   static const double d7Point5 = 7.5;
   static const double d8 = 8.0;
   static const double d8Point4 = 8.4;
-  static const double d8Point7= 8.7;
+  static const double d8Point7 = 8.7;
   static const double d10 = 10.0;
   static const double d11 = 11.0;
   static const double d12 = 12.0;
